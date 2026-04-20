@@ -1,0 +1,78 @@
+✨ Features
+
+Full Admin Panel GUI
+Access all admin tools through an intuitive, beautiful GUI interface!
+
+Player Management
+- View and manage all online players
+- View player inventory (editable!)
+- Access player enderchest
+- Heal, feed, teleport players
+- Apply potion effects
+- Manage economy
+- Toggle fly, god mode, vanish
+- Freeze/unfreeze players
+- View player statistics
+- Issue punishments
+
+Server Management
+- Time control (day, night, custom)
+- Weather control (clear, rain, storm)
+- Kill hostile mobs
+- Remove entities (items, arrows, etc.)
+- Broadcast messages
+- Execute console commands
+- Teleport all players
+- View server info (TPS, players, version)
+
+Economy Integration (Vault)
+- View player balance
+- Set exact balance
+- Add/remove money
+- Quick action buttons ($100, $1k, $10k)
+- Reset balance
+
+Potion Effects System
+- 25+ potion effects available
+- Apply to yourself or other players
+- Clear all effects instantly
+- Configurable duration and amplifier
+
+⚔️ Punishment System
+- Warning system with thresholds
+- Auto-kick after X warnings
+- Auto-ban after X warnings
+- View punishment history
+- Mute system
+- Pre-configured templates
+
+⚙️ Custom Commands
+- Create custom GUI commands
+- Execute as player or console
+- Full placeholder support
+- Icon customization
+
+Staff Communication
+- Staff Chat - Private communication channel for staff members
+- Broadcast - Server-wide announcements with formatting
+
+Admin Commands
+Over 25+ admin commands for complete server control!
+
+Multi-Language Support
+10 languages included out of the box:
+- English (en_US)
+- Spanish (es_ES)
+- Portuguese (pt_BR)
+- German (de_DE)
+- French (fr_FR)
+- Chinese (zh_CN)
+- Russian (ru_RU)
+- Japanese (ja_JP)
+- Korean (ko_KR)
+- Italian (it_IT)
+
+Plugin Integrations
+- Vault - Full economy support
+- PlaceholderAPI - Custom placeholders
+- bStats - Anonymous metrics
