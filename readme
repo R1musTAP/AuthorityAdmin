@@ -1,78 +1,37 @@
 ✨ Features
 
-Full Admin Panel GUI
-Access all admin tools through an intuitive, beautiful GUI interface!
+Authority Admin is a complete, modern administration panel for Minecraft servers built entirely around a clean GUI experience. Forget memorizing commands — every action lives behind a single /admin menu packed with live server stats, one-click tools, and full player management capabilities.
 
-Player Management
-- View and manage all online players
-- View player inventory (editable!)
-- Access player enderchest
-- Heal, feed, teleport players
-- Apply potion effects
-- Manage economy
-- Toggle fly, god mode, vanish
-- Freeze/unfreeze players
-- View player statistics
-- Issue punishments
+What it does
+Managing your server should feel fast and intuitive. Authority Admin gives your staff team a fully visual control panel where they can punish, monitor, and manage players without ever leaving the game. From banning and muting to viewing someone's inventory or applying potion effects — it all happens through polished, responsive GUIs.
 
-Server Management
-- Time control (day, night, custom)
-- Weather control (clear, rain, storm)
-- Kill hostile mobs
-- Remove entities (items, arrows, etc.)
-- Broadcast messages
-- Execute console commands
-- Teleport all players
-- View server info (TPS, players, version)
+Core Features
+Punishment System — Permanent and temporary bans, IP bans, mutes, kicks, and warnings with full history tracking. Auto-actions trigger automatically when players reach warning thresholds.
 
-Economy Integration (Vault)
-- View player balance
-- Set exact balance
-- Add/remove money
-- Quick action buttons ($100, $1k, $10k)
-- Reset balance
+Player Reports — Players can report others in-game. Staff receive instant notifications and manage all reports through a dedicated panel with status tracking (Open, Closed, Dismissed).
 
-Potion Effects System
-- 25+ potion effects available
-- Apply to yourself or other players
-- Clear all effects instantly
-- Configurable duration and amplifier
+Bug Reports — Players submit categorized bug reports (Crash, Gameplay, Performance, Exploit, Other) directly in-game. Staff investigate and track each report through a full workflow: Open → In Progress → Resolved.
 
-⚔️ Punishment System
-- Warning system with thresholds
-- Auto-kick after X warnings
-- Auto-ban after X warnings
-- View punishment history
-- Mute system
-- Pre-configured templates
+Admin Mode Hotbar — Toggle a specialized 9-tool hotbar with quick access to player lists, vanish, freeze, reports, economy, staff chat, and server management. Everything at your fingertips without opening a single menu.
 
-⚙️ Custom Commands
-- Create custom GUI commands
-- Execute as player or console
-- Full placeholder support
-- Icon customization
+Vanish — Disappear completely with fake leave/join messages. Staff with the right permission can still see you.
 
-Staff Communication
-- Staff Chat - Private communication channel for staff members
-- Broadcast - Server-wide announcements with formatting
+Freeze — Lock a player in place during investigations. Block movement and optionally block commands while frozen.
 
-Admin Commands
-Over 25+ admin commands for complete server control!
+Server Management — Set time, change weather, kill mobs, clear item drops, teleport all players, broadcast messages, and run console commands — all from one GUI.
 
-Multi-Language Support
-10 languages included out of the box:
-- English (en_US)
-- Spanish (es_ES)
-- Portuguese (pt_BR)
-- German (de_DE)
-- French (fr_FR)
-- Chinese (zh_CN)
-- Russian (ru_RU)
-- Japanese (ja_JP)
-- Korean (ko_KR)
-- Italian (it_IT)
+Economy Integration — Manage player balances, deposit, set, and reset money through the GUI. Powered by Vault.
 
-Plugin Integrations
-- Vault - Full economy support
-- PlaceholderAPI - Custom placeholders
-- bStats - Anonymous metrics
+PlaceholderAPI Support — Expose player punishment and status data to scoreboards, tab lists, and other plugins.
+
+Discord Webhooks — Log every punishment, player report, and bug report to Discord with rich embeds. Supports a dedicated channel for bug reports separately from the main moderation log.
+
+10 Languages — English, Spanish, Portuguese (BR), German, French, Chinese (Simplified), Russian, Japanese, Korean, and Italian. Auto-locale detection supported.
+
+SQLite & MySQL — Works out of the box with SQLite. Switch to MySQL with a single config change for multi-server setups.
+
+Requirements
+Paper 1.21.4+
+Java 21+
+Vault (optional — for economy features)
+PlaceholderAPI (optional — for placeholder support)
